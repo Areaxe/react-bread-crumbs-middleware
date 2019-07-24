@@ -1,0 +1,19 @@
+{
+  "name": "react-router-bread-crumbs-middleware",
+  "version": "1.0.0",
+  "description": "an bread crumb for react router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bread",
+    "crumbs",
+    "react"
+  ],
+  "author": "areaxe",
+  "license": "ISC",
+  "dependencies": {
+    "path-to-regexp": "^3.0.0"
+  }
+}
