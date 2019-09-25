@@ -1,1 +1,1 @@
-# react-bread-crumbs-middleware
+# react-router-redux-breadcrumbs
