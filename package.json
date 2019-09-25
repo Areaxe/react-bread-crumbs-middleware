@@ -1,5 +1,5 @@
 {
-  "name": "react-router-breadcrumbs-middleware",
+  "name": "react-router-redux-breadcrumbs",
   "version": "1.0.0",
   "description": "an bread crumb for react router",
   "main": "index.js",
